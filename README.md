@@ -1,5 +1,5 @@
 # Bootcamp Carrefour Web Developer
-Formação de developers em JavaScript, ReactJS, JAVA e Springboot, realizado em parceria com a DIO.
+Formação de developers em JavaScript, ReactJS, JAVA e Springboot, realizado em parceria com a **DIO**.
 ## Conteúdo do Curso
 **1.	Módulo I – Conteúdo de Abertura**<br>
 1.1.	[Pensamento Computacional](https://github.com/iandealmeida/Bootcamp_Carrefour_Web_Developer/blob/main/1.Modulo_I%E2%80%93Conteudo_de_Abertura/1.1_Pensamento_Computacional.md)<br>
