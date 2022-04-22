@@ -2,14 +2,15 @@
 Formação de developers em JavaScript, ReactJS, JAVA e Springboot, realizado em parceria com a DIO.
 
 ## Conteúdo do Curso
-
+![Logo do programa]<img src = https://hermes.digitalinnovation.one/tracks/c157ff82-82fa-4ede-a5e0-56d1b41c385e.png style="width:60px;"/>
 **1.	Módulo I – Conteúdo de Abertura**
 
-	1.1.	Pensamento Computacional
-	1.2.	Lógica de Programação Essencial
-	1.3.	Introdução ao Git e ao GitHub
-	1.4.	Projetos ágeis com SCRUM
-	1.5.	Desafio de projeto: Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso
+	1.1.	[Pensamento Computacional](https://github.com/iandealmeida/Bootcamp_Carrefour_Web_Developer/blob/main/1.Modulo_I%E2%80%93Conteudo_de_Abertura/1.1_Pensamento_Computacional.md)
+	1.2.	[Lógica de Programação Essencial](https://github.com/iandealmeida/Bootcamp_Carrefour_Web_Developer/blob/main/1.Modulo_I%E2%80%93Conteudo_de_Abertura/1.2.Logica_Programacao_Essencial.md)
+	1.3.	[Introdução ao Git e ao GitHub](https://github.com/iandealmeida/Bootcamp_Carrefour_Web_Developer/blob/main/1.Modulo_I%E2%80%93Conteudo_de_Abertura/1.3.Introd_Git_GitHub.md)
+	1.4.	[Projetos ágeis com SCRUM](https://github.com/iandealmeida/Bootcamp_Carrefour_Web_Developer/blob/main/1.Modulo_I%E2%80%93Conteudo_de_Abertura/1.4.Projetos_ageis_com_SCRUM.md)
+	1.5.	[Desafio de projeto: Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso](https://github.com/iandealmeida/Bootcamp_Carrefour_Web_Developer/blob/main/1.Modulo_I%E2%80%93Conteudo_de_Abertura/1.5.Desafio_Primeiro_Rep_GitHub.md)
+
 **2.	Módulo II – HTML/CSS3**
 
 	2.1.	Primeiros passos para desenvolvimento web
